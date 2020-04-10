@@ -10,4 +10,4 @@ Having trouble with getting kafka and zookeeper work in docker on windows 10.  S
    listeners=PLAINTEXT://localhost:9092
    log.dirs=C:\kafka\logs
 3. go to bin/window
-   kafka-server-start.bat  ..\..\config\server.properties
+   kafka-server-start.bat  ..\\..\config\server.properties
